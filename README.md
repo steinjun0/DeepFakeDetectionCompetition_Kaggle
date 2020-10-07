@@ -1,0 +1,2 @@
+# DeepFakeDetectionCompetition_Kaggle
+DeepFakeDetectionCompetition_Kaggle with Google Colab(tensorflow) 
